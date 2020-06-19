@@ -1,0 +1,95 @@
+.spreebie_transcoder_true {
+	color: rgb(0, 194, 0);
+}
+
+.spreebie_transcoder_false {
+	color:red;
+}
+
+#ob_vc_output_url {
+	display : none;
+}
+
+#spreebie_transcoder_main_content {
+	display : none;
+}
+
+#spreebie_transcoder_loading {
+	display : none;
+}
+
+#spreebie_transcoder_store_on_gcs_loading {
+	display : none;
+}
+
+#spreebie_transcoder_google_storage_loading {
+	display : none;
+}
+
+.spinner {
+	display: inline;
+}
+
+#spreebie_transcoder_incomplete_dialog {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+}
+
+#spreebie_transcoder_ffmpeg_not_found {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+}
+
+#spreebie_transcoder_upload_complete {
+	background: #daffd6;
+	border-color: #beffb7;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#spreebie_transcoder_support_fields_not_filled {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+}
+
+#spreebie_transcoder_video_size_not_number {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+}
+
+#spreebie_transcoder_email_invalid {
+	background: #f8dbdb;
+	border-color: #e77776;
+}
+
+#spreebie_transcoder_transcoding {
+	background: #daffd6;
+	border-color: #beffb7;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+	display: none;
+}
+
+#spreebie_transcoder_uploaded_to_gcs_successfully {
+	background: #daffd6;
+	border-color: #beffb7;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+	display: none;
+}
+
+#spreebie_transcoder_uploading_to_gcs {
+	background: #f8dbdb;
+	border-color: #e77776;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+	display: none;
+}
